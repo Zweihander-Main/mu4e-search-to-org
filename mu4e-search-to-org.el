@@ -37,7 +37,7 @@
 
 (defgroup mu4e-search-to-org nil
   "Customization for 'mu4e-search-to-org' package."
-  :group 'org
+  :group 'mu4e
   :prefix "mu4e-search-to-org-")
 
 (defconst mu4e-search-to-org--const-for-state "MU4ESEARCHTOORG_")
