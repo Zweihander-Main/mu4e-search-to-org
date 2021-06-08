@@ -3,7 +3,7 @@
 
 (package-file "mu4e-search-to-org.el")
 
-(files "process-org-agenda-inbox-test.el")
+(files "mu4e-search-to-org.el")
 
 (depends-on "org")
 
