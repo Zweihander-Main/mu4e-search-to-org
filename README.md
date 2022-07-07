@@ -1,6 +1,6 @@
 # mu4e-search-to-org
 
-> WIP
+> DEPRECATED. No longer works with mu 1.8.
 
 Note: This is going to hijack your mu4e experience whenever you have a new message pulled in via the search string. I would avoid blindly importing this until it's rewritten. 
 
